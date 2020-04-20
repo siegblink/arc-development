@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# arc-development
+
+This project is called arc-development built using React.js, Material-UI, etc.
+
+And bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
